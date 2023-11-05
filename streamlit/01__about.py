@@ -7,7 +7,8 @@ from utils import load_td
 
 st.set_page_config(
     layout="wide",
-    page_title="About"
+    page_title="About",
+    page_icon="👋"
 )
 
 col1, col2 = st.columns([2, 1])
